@@ -11,7 +11,7 @@ import time
 start_time = time.time()
 
 
-KEY_FILE_PATH = "C:/Users/Kavya/kavVSCode/gcs_keys/symmetric-hash-413516-250618204f5d.json"
+KEY_FILE_PATH = "./symmetric-hash-413516-250618204f5d.json"
 
 required_columns = ['Product Name', 'Brand Name', 'Price', 'Quantity/Size', 'Shade/Color', 'Ingredients', 'Product Type', 'Usage Instructions', 'Expiration Date', 'Manufacturing Date', 'Country of Origin', 'Special Features', 'Certifications', 'Description', 'Image Path', 'Benefits', 'Skin Type Compatibility', 'Packaging', 'Product Images', 'Return Policy', 'Disclaimer']
 
